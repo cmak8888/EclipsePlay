@@ -1,0 +1,5 @@
+1) It Reverts the changes to the previous state.
+2) It stops at the beginning of the function, when you step into the function, it displays it line by line what happens when each line runs.
+3) The toString function is an override function to override how the string is displayed. Without the override,
+the string is displayed differently.
+
